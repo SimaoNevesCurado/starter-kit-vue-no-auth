@@ -16,9 +16,7 @@ This starter kit is intentionally configured without authentication scaffold log
 ## Create Project
 
 ```bash
-composer create-project simaocurado/starter-kit-vue my-app
-cd my-app
-composer setup
+composer create-project simaocurado/starter-kit-vue-no-auth --prefer-dist app-name
 ```
 
 `composer setup` runs:
