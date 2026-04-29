@@ -1,7 +1,7 @@
 
-# Starter Kit Vue (Laravel + Inertia) - No Auth Scaffold
+# Starter Kit Vue (Laravel 13 + Inertia) - No Auth Scaffold
 
-An opinionated starter kit for building Laravel + Vue apps with a strong focus on quality, typing, and consistency.
+An opinionated starter kit for building Laravel 13 + Vue apps with a strong focus on quality, typing, and consistency.
 
 This starter kit is intentionally configured without authentication scaffold logic (no login/register/logout flows).
 
